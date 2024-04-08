@@ -1,5 +1,5 @@
 # UMC Android 6th
-##🤖 6th UMC Ewha Server-Android Repository by Jenett
+## 🤖 6th UMC Ewha Server-Android Repository by Jenett
 
 ### 진행 상황
 #### ☑️ WEEK 1
