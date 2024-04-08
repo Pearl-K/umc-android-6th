@@ -3,13 +3,13 @@
 
 
 
-## ☑️ WEEK 1
+## ✅ WEEK 1
 
 
-## ☑️ WEEK 2
+## ✅ WEEK 2
 
 
-## ☑️ WEEK 3
+## ✅ WEEK 3
 
 
 
