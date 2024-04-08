@@ -1,4 +1,4 @@
-# UMC Android 6th
+# UMC Android
 ### 🤖 6th UMC Ewha Server-Android Repository by Jenett
 
 
