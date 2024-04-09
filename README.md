@@ -5,7 +5,7 @@
 
 ## ✅ WEEK 1
 #### Chapter 1. Platform & Layout
-#### 안드로이드 클론 코딩 - flo 앱의 Home Fragment 만들기
+#### 안드로이드 - flo 앱의 Home Fragment 만들기
     - BottomNevigationView 사용
     - ScrollView 사용
     - ConstraintLayout 의 margin 설정, chain 사용
