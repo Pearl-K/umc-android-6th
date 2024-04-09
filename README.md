@@ -13,6 +13,9 @@
 
     
 #### 결과 화면
+![결과1](https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week1_flo/materials/week1_amul1.PNG)
+![결과2](https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week1_flo/materials/week1_amul2.PNG)
+![결과3](https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week1_flo/materials/week1_amul3.PNG)
 
 
 ## ✅ WEEK 2
