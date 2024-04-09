@@ -13,9 +13,11 @@
 
     
 #### 결과 화면
-<img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week1_flo/materials/week1_amul1.PNG"  width="220" height="400"/>
-<img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week1_flo/materials/week1_amul2.PNG"  width="220" height="400"/>
-<img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week1_flo/materials/week1_amul3.PNG"  width="220" height="400"/>
+<div align="center">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week1_flo/materials/week1_amul1.PNG" alt="이미지1" width="200" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week1_flo/materials/week1_amul2.PNG" alt="이미지2" width="200" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week1_flo/materials/week1_amul3.PNG" alt="이미지3" width="200" height="400">
+</div>
 
 
 ## ✅ WEEK 2
