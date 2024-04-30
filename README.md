@@ -5,7 +5,7 @@
 
 ## ✅ WEEK 1
 #### Chapter 1. Platform & Layout
-#### 안드로이드 - flo 앱의 Home Fragment 만들기
+#### flo 앱의 Home Fragment 만들기
     - BottomNevigationView 사용
     - ScrollView 사용
     - ConstraintLayout 의 margin 설정, chain 사용
@@ -22,7 +22,7 @@
 
 ## ✅ WEEK 2
 #### Chapter 2. Activity & Fragment
-#### 안드로이드 - flo 앱의 SongActivity, AlbumFragment 만들기
+#### flo 앱의 SongActivity, AlbumFragment 만들기
     - Activity 전환 실습 (MainActivity -> SongActivity)
     - 음악 play / stop에 따른 btn 변화
     - Fragment 전환 (HomeFragment -> AlbumFragment)
