@@ -37,6 +37,22 @@
 
 
 ## ✅ WEEK 3
+#### Chapter 3. Useful Widget
+#### flo 앱의 HomeFragemnt와 AlbumFragment를 TabLayout, ViewPager2를 활용하여 제작
+    - 기존의 HomeFragment Banner를 ViewPager2를 사용하여 넘기는 배너로 교체
+    - AlbumFragment에서 TabLayout + ViewPager2 를 사용한 화면 구성
+
+
+#### 결과 화면
+<div align="center">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week3/pic1.PNG" alt="이미지1" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week3/pic2.PNG" alt="이미지2" width="220" height="400">
+</div>
+<div align="center">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week3/vt1.PNG" alt="이미지1" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week3/vt2.PNG" alt="이미지2" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week3/vp3.PNG" alt="이미지2" width="220" height="400">
+</div>
 
 
 
