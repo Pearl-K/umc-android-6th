@@ -32,7 +32,7 @@
 #### 결과 화면
 <div align="center">
     <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w2/pic1.PNG.png" alt="이미지1" width="220" height="400">
-    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w2/pic2.PNG.png" alt="이미지2" width="220" height="390">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w2/pic2.PNG.png" alt="이미지2" width="220" height="398">
 </div>
 
 
