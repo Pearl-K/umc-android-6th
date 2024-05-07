@@ -65,9 +65,9 @@
 #### 결과 화면
 <div align="center">
     <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w4/p1.PNG" alt="이미지1" width="220" height="400">
-    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w4/p2.PNGg" alt="이미지2" width="220" height="400">
-    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w4/p3.PNGg" alt="이미지3" width="220" height="400">
-    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w4/logo.PNGg" alt="이미지4" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w4/p2.PNG" alt="이미지2" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w4/p3.PNG" alt="이미지3" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w4/logo.PNG" alt="이미지4" width="220" height="400">
 </div>
 
 
