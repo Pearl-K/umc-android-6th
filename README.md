@@ -51,7 +51,7 @@
 <div align="center">
     <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week3/vt1.PNG" alt="이미지1" width="220" height="400">
     <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week3/vt2.PNG" alt="이미지2" width="220" height="400">
-    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week3/vp3.PNG" alt="이미지2" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week3/vt3.PNG" alt="이미지2" width="220" height="400">
 </div>
 
 
