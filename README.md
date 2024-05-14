@@ -73,7 +73,7 @@
 
 ## ✅ WEEK 5
 #### Chapter 5. LifeCycle
-#### MainPlayer에 Seekbar 구현, Song(SongActivity)의 진행도를 MainPlayer Sekkbar에 반영
+#### MainPlayer에 Seekbar 구현, Song(SongActivity)의 진행도를 MainPlayer Seekbar에 반영
     - SongActivity의 생명주기가 onPause() 일 때, SongActivity의 Seekbar의 진행도를 Main 화면으로 넘기기
     - MainPlayer에 mini seekbar 구현한 후 SongActivity 에서 재생했던 진행도를 받아와서 표시 
     - JSON, GSON을 사용하여 Java 객체인 Song의 정보를 주고 받는다
