@@ -14,9 +14,9 @@
     
 #### 결과 화면
 <div align="center">
-    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week1/materials/week1_amul1.PNG" alt="이미지1" width="220" height="400">
-    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week1/materials/week1_amul2.PNG" alt="이미지2" width="220" height="400">
-    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week1/materials/week1_amul3.PNG" alt="이미지3" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w1/week1_amul1.PNG.png" alt="이미지1" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w1/week1_amul2.PNG.png" alt="이미지2" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w1/week1_amul3.PNG.png" alt="이미지3" width="220" height="400">
 </div>
 
 
@@ -31,8 +31,8 @@
 
 #### 결과 화면
 <div align="center">
-    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week2/pic1.PNG" alt="이미지1" width="220" height="400">
-    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week2/pic2.PNG" alt="이미지2" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w2/pic1.PNG.png" alt="이미지1" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w2/pic2.PNG.png" alt="이미지2" width="230" height="400">
 </div>
 
 
@@ -45,14 +45,33 @@
 
 #### 결과 화면
 <div align="center">
-    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week3/pic1.PNG" alt="이미지1" width="220" height="400">
-    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week3/pic2.PNG" alt="이미지2" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w3/pic1.PNG.png" alt="이미지1" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w3/pic2.PNG.png" alt="이미지2" width="220" height="400">
 </div>
 <div align="center">
-    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week3/vt1.PNG" alt="이미지1" width="220" height="400">
-    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week3/vt2.PNG" alt="이미지2" width="220" height="400">
-    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/week3/vt3.PNG" alt="이미지2" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w3/vt1.PNG.png" alt="이미지1" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w3/vt2.PNG.png" alt="이미지2" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w3/vt3.PNG.png" alt="이미지3" width="220" height="400">
 </div>
+
+
+## ✅ WEEK 4
+#### Chapter 4. Thread
+#### Song의 진척도를 알리는 Progress Seekbar 만들기, Thread-Timer를 이용한 재생 시간 표시
+    - Thread 타이머 기본 실습 후, Song의 Progress를 보여주는 Bar에 접목
+    - Splash Theme을 새로 만들어서 App 시작 시 logo 화면 띄우기
+
+
+#### 결과 화면
+<div align="center">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w4/p1.PNG" alt="이미지1" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w4/p2.PNG" alt="이미지2" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w4/p3.PNG" alt="이미지3" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w4/logo.PNG" alt="이미지4" width="220" height="400">
+</div>
+
+
+    
 
 
 
