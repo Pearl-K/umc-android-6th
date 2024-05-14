@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FLO</string>
+    <string name="title">제목</string>
+    <string name="artist">가수</string>
+</resources>
