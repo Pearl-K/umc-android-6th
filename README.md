@@ -71,6 +71,21 @@
 </div>
 
 
+## ✅ WEEK 5
+#### Chapter 5. LifeCycle
+#### MainPlayer에 Seekbar 구현, Song(SongActivity)의 진행도를 MainPlayer Seekbar에 반영
+    - SongActivity의 생명주기가 onPause() 일 때, SongActivity의 Seekbar의 진행도를 Main 화면으로 넘기기
+    - MainPlayer에 mini seekbar 구현한 후 SongActivity 에서 재생했던 진행도를 받아와서 표시 
+    - JSON, GSON을 사용하여 Java 객체인 Song의 정보를 주고 받는다
+    - SongActivity의 생명주기가 onDestroy() 일 때 resource(mp3) 재생을 해제
+
+
+#### 결과 화면
+<div align="center">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w5/p1.PNG" alt="이미지1" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w5/p2.PNG" alt="이미지2" width="220" height="400">
+</div>
+
     
 
 
