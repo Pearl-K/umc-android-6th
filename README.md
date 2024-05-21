@@ -86,8 +86,24 @@
     <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w5/p2.PNG" alt="이미지2" width="220" height="400">
 </div>
 
-    
+
+## ✅ WEEK 6
+#### Chapter 6. ListView & RecyclerView
+#### ListView를 사용한 부분을 전체적으로 RecyclerView로 변경
+    - HomeFragment에 있는 오늘 발매 음악을 ListView에서 RecyclerView로 교체
+        - (item_album.xml 의 형태로 Recycler View가 생성되고, Album 데이터를 보내준것으로 데이터가 적용된다.)
+        - 해당 RecyclerView 의 특정 앨범을 누르면 AlbumFragment로 바뀐 앨범 정보가 전달된다.
+    - LockerFragment를 TabLayout과 ViewPager2를 사용하여 재구성하고, SongList를 띄우는 Fragment 제작
+        - SongListFragment 에는 보낸 노래 정보들을 RecyclerView로 띄운다. (item_song.xml의 형태)
 
 
-
+#### 결과 화면
+<div align="center">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w6/p1.PNG" alt="이미지1" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w6/p2.PNG" alt="이미지2" width="220" height="400">
+</div>
+<div align="center">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w6/p3.PNG" alt="이미지1" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w6/p4.PNG" alt="이미지2" width="220" height="400">
+</div>
 
