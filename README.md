@@ -104,3 +104,19 @@
     <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w6/p4.PNG" alt="이미지2" width="220" height="400">
 </div>
 
+
+## ✅ WEEK 7
+#### Chapter 7. DataBase
+#### RoomDB를 사용하여 Song 목록 관리
+    - RoomDB 적용, DAO를 만들어 DML 동작 구현 (SELECT, INSERT, UPDATE)
+    - SongTable을 만들어 Song의 정보를 테이블에 저장한다 (Song은 Data Class로 @Entity 이다)
+    - RoomDB에서 Song 정보를 가져와서 Player에 setting 하는 기능, ClickListener를 통해 다음 곡으로 넘어간다
+    - 좋아요 표시(Like) 여부를 DB에 저장하여 기억하고 화면에 표시한다.
+
+
+#### 결과 화면
+<div align="center">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w7/p1.PNG" alt="이미지1" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w7/p3.PNG" alt="이미지1" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w7/p4.PNG" alt="이미지2" width="220" height="400">
+</div>
