@@ -158,9 +158,8 @@
 
 ## ✅ WEEK 10
 #### Chapter 10. Social Login & Paging
-#### 
-    - 
-    - 
+#### 아키텍처 설계, 개발 이론 공부 (MVC, MVP, MVVM) 
+    - MVC 패턴 템플릿을 활용하여 MVC 패턴으로 리팩토링하기
 
 
 #### 결과 화면
