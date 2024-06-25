@@ -145,14 +145,7 @@
 #### Retrofit2를 사용한 안드로이드 HTTP 통신으로 회원가입, 로그인 기능 구현
     - AuthService() 메소드 분리, 회원가입과 로그인 기능 각각 보완
     - JWT를 저장하고 불러올 수 있게 data class 만들어서 활용
-
-
-#### 결과 화면
-<div align="center">
-    <img src="" alt="이미지1" width="220" height="400">
-    <img src="" alt="이미지1" width="220" height="400">
-    <img src="" alt="이미지2" width="220" height="400">
-</div>
+    - 한계점 : 현재 실습사에서 담당하는 api가 유효하지 않아서 기능 실행이 안됨, 추후 다른 API로 변경(ex. 카카오 API)
 
 
 
@@ -164,9 +157,7 @@
 
 #### 결과 화면
 <div align="center">
-    <img src="" alt="이미지1" width="220" height="400">
-    <img src="" alt="이미지1" width="220" height="400">
-    <img src="" alt="이미지2" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w10/p1.png" alt="이미지1" width="220" height="400">
 </div>
 
 
