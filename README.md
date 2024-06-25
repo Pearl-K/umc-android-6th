@@ -134,9 +134,8 @@
 
 #### 결과 화면
 <div align="center">
-    <img src="" alt="이미지1" width="220" height="400">
-    <img src="" alt="이미지1" width="220" height="400">
-    <img src="" alt="이미지2" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w8/p1.PNG" alt="이미지1" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w8/p2.PNG" alt="이미지1" width="220" height="400">
 </div>
 
 
@@ -144,8 +143,8 @@
 ## ✅ WEEK 9
 #### Chapter 9. Network 통신 & API
 #### Retrofit2를 사용한 안드로이드 HTTP 통신으로 회원가입, 로그인 기능 구현
-    - 
-    - 
+    - AuthService() 메소드 분리, 회원가입과 로그인 기능 각각 보완
+    - JWT를 저장하고 불러올 수 있게 data class 만들어서 활용
 
 
 #### 결과 화면
