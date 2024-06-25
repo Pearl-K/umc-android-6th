@@ -134,8 +134,8 @@
 
 #### 결과 화면
 <div align="center">
-    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w8/p1.PNG" alt="이미지1" width="220" height="400">
-    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w8/p2.PNG" alt="이미지1" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w8/p1.png" alt="이미지1" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w8/p1.png" alt="이미지2" width="220" height="400">
 </div>
 
 
