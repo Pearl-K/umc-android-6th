@@ -104,3 +104,75 @@
     <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w6/p4.PNG" alt="이미지2" width="220" height="400">
 </div>
 
+
+## ✅ WEEK 7
+#### Chapter 7. DataBase
+#### RoomDB를 사용하여 Song 목록 관리
+    - RoomDB 적용, DAO를 만들어 DML 동작 구현 (SELECT, INSERT, UPDATE)
+    - SongTable을 만들어 Song의 정보를 테이블에 저장한다 (Song은 Data Class로 @Entity 이다)
+    - RoomDB에서 Song 정보를 가져와서 Player에 setting 하는 기능, ClickListener를 통해 다음 곡으로 넘어간다
+    - 좋아요 표시(Like) 여부를 DB에 저장하여 기억하고 화면에 표시한다
+    - 좋아요 표시된 Song을 보관함에 저장하고, 보관함에 저장한 특정 Song을 삭제하는 기능도 제공한다
+
+
+#### 결과 화면
+<div align="center">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w7/p1.PNG" alt="이미지1" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w7/p2.PNG" alt="이미지1" width="220" height="400">
+    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w7/p3.PNG" alt="이미지2" width="220" height="400">
+</div>
+
+
+## ✅ WEEK 8
+#### Chapter 8. Token
+#### 회원가입, 로그인, 로그아웃 기능 구현
+    - RoomDB에 UserTable을 만들어 회원가입 (UserTable에 새로운 유저 정보 Insert) 기능 구현
+    - RoomDB UserTable에 저장된 email과 pw 중 일치하는 정보를 가져와서 로그인 기능 구현
+    - SharedPreference에 저장된 JWT 를 확인하여 로그인 여부 체크, 해당 정보를 지워서 로그아웃 기능 구현
+    - LikeTable과 AlbumTable을 만들어 각 사용자가 좋아요를 누른 앨범 정보를 RoomDB로 관리
+
+
+#### 결과 화면
+<div align="center">
+    <img src="" alt="이미지1" width="220" height="400">
+    <img src="" alt="이미지1" width="220" height="400">
+    <img src="" alt="이미지2" width="220" height="400">
+</div>
+
+
+
+## ✅ WEEK 9
+#### Chapter 9. Network 통신 & API
+#### Retrofit2를 사용한 안드로이드 HTTP 통신으로 회원가입, 로그인 기능 구현
+    - 
+    - 
+
+
+#### 결과 화면
+<div align="center">
+    <img src="" alt="이미지1" width="220" height="400">
+    <img src="" alt="이미지1" width="220" height="400">
+    <img src="" alt="이미지2" width="220" height="400">
+</div>
+
+
+
+## ✅ WEEK 10
+#### Chapter 10. Social Login & Paging
+#### 
+    - 
+    - 
+
+
+#### 결과 화면
+<div align="center">
+    <img src="" alt="이미지1" width="220" height="400">
+    <img src="" alt="이미지1" width="220" height="400">
+    <img src="" alt="이미지2" width="220" height="400">
+</div>
+
+
+## ✅ 마무리, 더 확장해야 할 것
+    - Firebase 기반으로 한 DB 서버 구축
+    - SplashActivity - 자동 로그인 API 연동을 통한 자동 로그인 기능 구현
+    - 카카오 API를 이용한 소셜 로그인 서비스 구현
