@@ -155,13 +155,8 @@
     - MVC 패턴 템플릿을 활용하여 MVC 패턴으로 리팩토링하기
 
 
-#### 결과 화면
-<div align="center">
-    <img src="https://github.com/Pearl-K/umc-android-6th/blob/Jenett/pic/w10/p1.png" alt="이미지1" width="220" height="400">
-</div>
-
 
 ## ✅ 마무리, 더 확장해야 할 것
-    - Firebase 기반으로 한 DB 서버 구축
+    - Firebase 기반 DB 서버 구축
     - SplashActivity - 자동 로그인 API 연동을 통한 자동 로그인 기능 구현
     - 카카오 API를 이용한 소셜 로그인 서비스 구현
